@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\orientadoobjetos\bin\Debug\net8.0-windows\orientadoobjetos.exe
+C:\Users\hp\source\repos\orientadoobjetos\bin\Debug\net8.0-windows\orientadoobjetos.deps.json
+C:\Users\hp\source\repos\orientadoobjetos\bin\Debug\net8.0-windows\orientadoobjetos.runtimeconfig.json
+C:\Users\hp\source\repos\orientadoobjetos\bin\Debug\net8.0-windows\orientadoobjetos.dll
+C:\Users\hp\source\repos\orientadoobjetos\bin\Debug\net8.0-windows\orientadoobjetos.pdb
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.Form1.resources
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.AssemblyInfo.cs
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.sourcelink.json
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.dll
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\refint\orientadoobjetos.dll
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.pdb
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\orientadoobjetos.genruntimeconfig.cache
+C:\Users\hp\source\repos\orientadoobjetos\obj\Debug\net8.0-windows\ref\orientadoobjetos.dll
