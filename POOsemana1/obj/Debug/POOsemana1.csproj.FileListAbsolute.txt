@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\POOsemana1\obj\Debug\POOsemana1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\POOsemana1\obj\Debug\POOsemana1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\POOsemana1\bin\Debug\POOsemana1.exe.config
+C:\Users\hp\source\repos\POOsemana1\bin\Debug\POOsemana1.exe
+C:\Users\hp\source\repos\POOsemana1\bin\Debug\POOsemana1.pdb
+C:\Users\hp\source\repos\POOsemana1\obj\Debug\POOsemana1.exe
+C:\Users\hp\source\repos\POOsemana1\obj\Debug\POOsemana1.pdb
+C:\Users\hp\source\repos\orientadoobjetos\POOsemana1\bin\Debug\POOsemana1.exe.config
+C:\Users\hp\source\repos\orientadoobjetos\POOsemana1\bin\Debug\POOsemana1.exe
+C:\Users\hp\source\repos\orientadoobjetos\POOsemana1\bin\Debug\POOsemana1.pdb
+C:\Users\hp\source\repos\orientadoobjetos\POOsemana1\obj\Debug\POOsemana1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\orientadoobjetos\POOsemana1\obj\Debug\POOsemana1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\orientadoobjetos\POOsemana1\obj\Debug\POOsemana1.exe
+C:\Users\hp\source\repos\orientadoobjetos\POOsemana1\obj\Debug\POOsemana1.pdb

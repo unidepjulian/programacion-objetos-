@@ -11,7 +11,6 @@ namespace orientadoobjetos
         {
             var num1 = 7;
             var num2 = 5;
-            var opcion = 3;
             operaciones op = new operaciones();
             sentencia st = new sentencia();
 
@@ -38,6 +37,7 @@ namespace orientadoobjetos
             MessageBox.Show($"El numero1 es par: {esParNum1}");
             MessageBox.Show($"Es mayor el numero2 que numero1: {esMayorNum2}");
             MessageBox.Show($"El numero2 es par : {esParNum2}");
+            
            
 
 
