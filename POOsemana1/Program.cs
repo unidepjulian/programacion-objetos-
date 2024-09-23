@@ -13,32 +13,51 @@ namespace POOsemana1
         static void Main(string[] args)
         {
             int opcion = 0;
+            string continuar = "si";
 
-            // Menú
-            Console.WriteLine("****************");
-            Console.WriteLine("      Menú      ");
-            Console.WriteLine("****************");
-            Console.WriteLine("1. comparar tres números menor a mayor");
-            Console.WriteLine("2. Verificar si un número es primo");
-            Console.Write("Seleccione una opción: ");
-            opcion = Convert.ToInt32(Console.ReadLine());
+            while (continuar == "si")
+            {
+                // Menú
+                Console.WriteLine("****************");
+                Console.WriteLine("      Menú      ");
+                Console.WriteLine("****************");
+                Console.WriteLine("1. comparar tres números menor a mayor");
+                Console.WriteLine("2. Verificar si un número es primo");
+                Console.WriteLine("3. numero mayor de una lista");
+                Console.WriteLine("4. numero menor de una lista");
+                Console.Write("Seleccione una opción: ");
+                opcion = Convert.ToInt32(Console.ReadLine());
 
-            if (opcion == 1)
-            {
-                CompararNumeros();
-            }
-            else if (opcion == 2)
-            {
-                VerificarPrimo();
-            }
-            else
-            {
-                Console.WriteLine("Opción no válida.");
-            }
+                if (opcion == 1)
+                {
+                    CompararNumeros();
+                }
+                else if (opcion == 2)
+                {
+                    VerificarPrimo();
+                }
+                else if (opcion == 3)
+                {
+                    MayorDeUnalista();
+                }
+                else if (opcion == 4)
+                {
+                   NumeroMenordeunalista();
 
+                }
+                else
+                {
+                    Console.WriteLine("Opción no válida.");
+                }
+                // Preguntar si el usuario desea realizar otra operación
+                Console.WriteLine("¿Desea realizar otra operación? (si/no): ");
+                continuar = Console.ReadLine().ToLower(); // Convertir la respuesta a minúsculas
+            }
+            Console.WriteLine("Programa finalizado.");
             Console.ReadKey(); // Espera una tecla antes de cerrar el programa
-        }
 
+
+    }
         static void CompararNumeros()
         {
             int n1 = 0;
@@ -125,6 +144,88 @@ namespace POOsemana1
 
             // Si no se encontró ningún divisor, el número es primo
             Console.WriteLine(n + " es primo.");
+        }
+
+        static void MayorDeUnalista()
+        {
+            bool continuar = true;
+            List<int> lista = new List<int>();
+            while (continuar)
+            {
+                Console.WriteLine("escribe un numero");
+                int numero = Convert.ToInt32(Console.ReadLine());
+                lista.Add(numero);
+                Console.WriteLine("preguntar si quiere agregar otro numero");
+                Console.WriteLine("S - si ");
+                Console.WriteLine("N - no ");
+                continuar = char.ToUpper(Console.ReadKey().KeyChar) == 'S';
+                Console.Clear();
+            }
+            int numeroMayor = lista[0]; // Inicializa el mayor con el primer número
+
+            for (int i = 0; i < lista.Count; i++) // for 1
+            {
+                int N = lista[i];
+                bool esMayor = true;
+
+                for (int j = 0; j < lista.Count; j++) // for 2
+                {
+                    int M = lista[j];
+                    if (N < M)
+                    {
+                        esMayor = false;
+                        break; // Salimos del for 2 si encontramos un número mayor
+                    }
+                }
+
+                if (esMayor) // Si es mayor que todos
+                {
+                    numeroMayor = N; // Actualizamos el número mayor
+                }
+            }
+
+            Console.WriteLine($"El número mayor es: {numeroMayor}");
+        }
+        static void NumeroMenordeunalista()
+        {
+            bool continuar = true;
+            List<int> lista = new List<int>();
+            while (continuar)
+            {
+                Console.WriteLine("Escribe un numero:");
+                int numero = Convert.ToInt32(Console.ReadLine());
+                lista.Add(numero);
+                Console.WriteLine("¿Deseas agregar otro número?");
+                Console.WriteLine("S - Si");
+                Console.WriteLine("N - No");
+                continuar = char.ToUpper(Console.ReadKey().KeyChar) == 'S';
+                Console.Clear();
+            }
+
+            int numeroMenor = lista[0]; // Inicializa el menor con el primer número
+
+            for (int i = 0; i < lista.Count; i++) // Recorre la lista
+            {
+                int N = lista[i];
+                bool esMenor = true;
+
+                for (int j = 0; j < lista.Count; j++) // Comparación con otros números
+                {
+                    int M = lista[j];
+                    if (N > M)
+                    {
+                        esMenor = false;
+                        break; // Si encuentra un número menor, sale del bucle
+                    }
+                }
+
+                if (esMenor) // Si es menor que todos
+                {
+                    numeroMenor = N; // Actualizamos el número menor
+                }
+            }
+
+            Console.WriteLine($"El número menor es: {numeroMenor}");
         }
 
     }
