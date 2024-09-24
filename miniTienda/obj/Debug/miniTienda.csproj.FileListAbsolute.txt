@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\orientadoobjetos\miniTienda\bin\Debug\miniTienda.exe.config
+C:\Users\hp\source\repos\orientadoobjetos\miniTienda\bin\Debug\miniTienda.exe
+C:\Users\hp\source\repos\orientadoobjetos\miniTienda\bin\Debug\miniTienda.pdb
+C:\Users\hp\source\repos\orientadoobjetos\miniTienda\obj\Debug\miniTienda.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\orientadoobjetos\miniTienda\obj\Debug\miniTienda.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\orientadoobjetos\miniTienda\obj\Debug\miniTienda.exe
+C:\Users\hp\source\repos\orientadoobjetos\miniTienda\obj\Debug\miniTienda.pdb
