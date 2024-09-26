@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\orientadoobjetos\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\hp\source\repos\orientadoobjetos\Tienda\bin\Debug\Tienda.exe
+C:\Users\hp\source\repos\orientadoobjetos\Tienda\bin\Debug\Tienda.pdb
+C:\Users\hp\source\repos\orientadoobjetos\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\orientadoobjetos\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\orientadoobjetos\Tienda\obj\Debug\Tienda.exe
+C:\Users\hp\source\repos\orientadoobjetos\Tienda\obj\Debug\Tienda.pdb
