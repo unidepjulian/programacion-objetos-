@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\fundamentos\bin\Debug\fundamentos.exe.config
+C:\Users\hp\source\repos\fundamentos\bin\Debug\fundamentos.exe
+C:\Users\hp\source\repos\fundamentos\bin\Debug\fundamentos.pdb
+C:\Users\hp\source\repos\fundamentos\obj\Debug\fundamentos.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\fundamentos\obj\Debug\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\fundamentos\obj\Debug\fundamentos.exe
+C:\Users\hp\source\repos\fundamentos\obj\Debug\fundamentos.pdb
