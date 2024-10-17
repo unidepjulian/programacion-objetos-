@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\proy\bin\Debug\proy.exe.config
+C:\Users\hp\source\repos\proy\bin\Debug\proy.exe
+C:\Users\hp\source\repos\proy\bin\Debug\proy.pdb
+C:\Users\hp\source\repos\proy\obj\Debug\proy.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\proy\obj\Debug\proy.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\proy\obj\Debug\proy.exe
+C:\Users\hp\source\repos\proy\obj\Debug\proy.pdb
